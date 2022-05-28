@@ -1,0 +1,6 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,Date
+7,Acme? Inc!,OH,7.25,Tile,400.00,3.50,4.15,1400.00,1660.00,214.20,3274.20,03-31-2022
+10,Adam,WA,9.25,Tile,289.00,3.50,4.15,1011.50,1199.35,198.98,2409.83,04-21-2022
+11,Amanda,KY,6.00,Carpet,250.00,2.25,2.10,562.50,525.00,65.25,1152.75,04-21-2022
+8,Fred,TX,4.45,Carpet,678.00,2.25,2.10,1525.50,1423.80,117.97,3067.27,04-20-2022
+9,Kevin,OH,7.25,Wood,100.00,5.15,4.75,515.00,475.00,69.30,1059.30,04-20-2022

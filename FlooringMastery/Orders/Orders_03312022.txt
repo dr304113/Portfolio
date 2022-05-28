@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+7,Acme? Inc!,OH,7.25,Tile,400.00,3.50,4.15,1400.00,1660.00,214.20,3274.20

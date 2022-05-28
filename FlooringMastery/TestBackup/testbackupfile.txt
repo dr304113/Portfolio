@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total,Date
+3,testname3,CA,25.00,Tile,350.00,3.50,4.15,1225.00,1452.50,669.38,3346.88,03-23-2023
+1,testname1,OH,7.25,Wood,600.00,5.15,4.75,3090.00,2850.00,415.80,6355.80,04-02-2023
+2,testname2,KY,6.00,Carpet,400.00,2.25,2.10,900.00,840.00,104.40,1844.40,04-02-2023

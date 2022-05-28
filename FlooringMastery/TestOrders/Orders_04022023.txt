@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,testname1,OH,7.25,Wood,600.00,5.15,4.75,3090.00,2850.00,415.80,6355.80
+2,testname2,KY,6.00,Carpet,400.00,2.25,2.10,900.00,840.00,104.40,1844.40
