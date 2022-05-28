@@ -1,0 +1,5 @@
+0004::Payday::1.99::0
+0005::Beef Jerky::4.99::3
+0002::Snickers::1.99::2
+0003::Pringles::2.99::9
+0001::Butterfinger::2.50::49
