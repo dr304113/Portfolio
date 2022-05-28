@@ -1,0 +1,5 @@
+Venom::1991-07-17::PG 13::Chip Diamond::paramount::10
+BatMan::2008-05-24::PG-13::Chip Diamond::paramount::10
+Spiderman::1995-05-24::R::will smith::paramount::10
+WonderWoman::2019-01-22::PG-13::Chip Diamond::paramount::23
+Green Lantern::2010-03-30::R::Chip Diamond::paramount::1/9
